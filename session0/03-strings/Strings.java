@@ -1,6 +1,6 @@
 public class Strings {
 	public static void main(String[] args) {
-		String number = "100";
+		int number = 100;
 		String day = "Monday";
 		
 		String noun1 = "Mom";
