@@ -7,6 +7,8 @@ If you have any questions about this you can contact thao.sahee@uwlax.edu.
 
 ## Slides
 
+These slides likely still exist in Google docs as linked here, but in case they aren't, there is also a copy of each presentation in the respective session directory.
+
 ### Session 0
 https://docs.google.com/presentation/d/1p0GbL1fj8ul7uQWigeUDJqaHNZaXO5Kojd8XNlQp9gY/edit?usp=sharing
 <!---
